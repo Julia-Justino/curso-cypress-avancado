@@ -26,9 +26,6 @@ Durante o curso avançado de Cypress, você vai aprender:
 
 Vá para a seção de [pré-requisitos](./lessons/0.md).
 
-___
-
 
 Um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
 
-Um curso da [**Escola Talking About Testing**](https://talkingabouttesting.coursify.me).
